@@ -19,7 +19,7 @@ We used these to classify the sentiment.
 
 Dataset: https://drive.google.com/drive/folders/1CKcUIKK4qzAG-waUuJKhror91tvfTx_9?usp=sharing
 
-Blog: https://medium.com/@dhanraj0709/sentimental-analysis-of-memes-c1d2b26a7618
+Blog: https://bit.ly/34XQadh
 
 Youtube: https://youtu.be/LpmQmIINnmo
 
